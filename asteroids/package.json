@@ -1,0 +1,19 @@
+{
+  "name": "w9d1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleyjek/W9D1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleyjek/W9D1/issues"
+  },
+  "homepage": "https://github.com/ashleyjek/W9D1#readme"
+}
